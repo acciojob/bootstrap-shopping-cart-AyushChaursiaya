@@ -1,1 +1,48 @@
-/*  your css code here. If applicable */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.productDetail {
+    margin: 0px;
+    padding: 0px;
+    width: 90%;
+    /* border: 2px solid red; */
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.productDetail1 {
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+}
+
+.block-heading {
+    color: #3b99e0;
+}
+
+.headings {
+    display: flex;
+    justify-content: center;
+}
+
+
+.summary {
+    width: 80%;
+    border-top: #5ea4f3;
+    background-color: #f7fbff;
+}
+
+.rounded,
+.block-heading,
+.prices {
+    margin: 100px;
+}
+
+.product,
+.summary {
+    margin: 0px;
+    /* padding: 0; */
+}
